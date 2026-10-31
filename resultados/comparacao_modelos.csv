@@ -1,0 +1,5 @@
+experimento,accuracy_teste,recall_teste,f1_teste,max_depth,min_samples_split,min_samples_leaf,criterion,class_weight
+Arvore-base,0.6271,0.5410434148121124,0.6140151123072146,5,,,,
+E1_referencia,0.6028,0.9235680408609996,0.7182579089232515,3,2.0,1.0,gini,
+E2_diversidade,0.6028,0.9235680408609996,0.7182579089232515,3,2.0,1.0,gini,
+E3_exploracao,0.6028,0.9235680408609996,0.7182579089232515,3,2.0,1.0,gini,

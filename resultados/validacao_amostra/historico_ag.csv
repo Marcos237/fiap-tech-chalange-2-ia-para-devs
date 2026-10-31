@@ -1,0 +1,2 @@
+experimento,geracao,melhor_fitness,fitness_medio,melhor_individuo
+validacao,1,0.7403246188418641,0.6480150918110072,"{'max_depth': 3, 'min_samples_split': 2, 'min_samples_leaf': 1, 'criterion': 'gini', 'class_weight': None}"

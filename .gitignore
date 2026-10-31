@@ -1,0 +1,24 @@
+# Ambiente Python e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Chaves, configuracoes locais e segredos
+.env
+.env.*
+*.key
+*.pem
+
+# Arquivos temporarios e logs
+tmp/
+*.log
+
+# Base original grande: manter apenas a amostra usada nos experimentos
+data/raw/
+
+# Arquivos do sistema e do VS Code
+.DS_Store
+Thumbs.db
+.vscode/
